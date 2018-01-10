@@ -1,6 +1,6 @@
 FROM ubuntu:16.10
 
-MAINTAINER Tim Koepsel <tk@picard.de>
+MAINTAINER Tim Koepsel <xzesstence@gmail.com>
 
 RUN \
 apt-get update && apt-get install vim -q -y && \
